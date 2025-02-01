@@ -1,6 +1,5 @@
 Project Name: netflix-clone 
 
-"This site can be developed and modified."
 
 Features ✨
 
